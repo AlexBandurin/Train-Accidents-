@@ -4,7 +4,7 @@ In this analysis, I explore an accident dataset from the Federal Railroad Admini
 
 [Data source](https://safetydata.fra.dot.gov/officeofsafety/publicsite/on_the_fly_download.aspx)
 
-Python Version: Python 3.10.9 Packages: pandas, numpy, matplotlib, seaborn,folium, kmodes
+Python Version: 3.10.9 Packages: pandas, numpy, matplotlib, seaborn,folium, kmodes
 
 This analysis consists of several parts:
 
