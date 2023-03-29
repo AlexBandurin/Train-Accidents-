@@ -1,4 +1,5 @@
-Train Accident Analysis: Project Overview
+# Train Accident Analysis: Project Overview
+
 In this analysis, I explore an accident dataset from the Federal Railroad Administration, which features data about accidents that happened in the US in the year 2022 (up until the end of November) as reported by railroad companies.
 
 [Data source](https://safetydata.fra.dot.gov/officeofsafety/publicsite/on_the_fly_download.aspx)
