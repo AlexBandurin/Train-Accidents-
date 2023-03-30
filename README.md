@@ -20,7 +20,7 @@ Used bar plots, pie charts, and folium maps to visualize the distributions and r
 <img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Casualties_by_Company.jpeg"  width="60%" height="60%">
 <img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Passenger_Trains.jpeg"  width="60%" height="60%">
 <img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Accident_Causes.jpeg"  width="60%" height="60%">
-<img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Accident_Causes_2.jpeg.jpeg"  width="60%" height="60%">
+<img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Accident_Causes_2.jpeg"  width="60%" height="60%">
 <img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Casualties_by_code.jpeg"  width="60%" height="60%">
 <img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Accident_Map.jpeg"  width="60%" height="60%">
                                                                                                               
