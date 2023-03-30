@@ -15,7 +15,7 @@ Python Version: 3.10.9 Packages: pandas, numpy, matplotlib, seaborn,folium, kmod
 
 ## EDA
 
-Used bar plots, pie charts, and folium maps to visualize the distributions and relationships between various variables. This dataset contained 114 features, so this was an extensive process. Below are some of the highlits.
+Used bar plots, pie charts, and folium maps to visualize the distributions and relationships between various variables. This dataset contained 114 features, so this was an extensive process. Below are some of the highlights.
 
 <p align="center">
 <img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Casualties_by_Company.jpeg"  width="60%" height="60%">
@@ -26,9 +26,9 @@ Used bar plots, pie charts, and folium maps to visualize the distributions and r
 
 <img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Accident_Causes_2.jpeg"  width="60%" height="60%">
 
+<img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Casualties_by_code.jpeg"  width="110%" height="90%">  
 
-<img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Casualties_by_code.jpeg"  width="110%" height="90%" text-align="center">  
+<img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Accident_Map.jpeg"  width="60%" height="60%">
+</p> 
 
-<img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Accident_Map.jpeg"  width="60%" height="60%" text-align="center">
-</p>                                                                                                              
 ## Clustering Analysis
