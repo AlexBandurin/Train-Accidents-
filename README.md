@@ -6,13 +6,6 @@ In this analysis, I explore an accident dataset from the Federal Railroad Admini
 
 Python Version: 3.10.9 Packages: pandas, numpy, matplotlib, seaborn,folium, kmodes
 
-## This analysis consists of several parts:
-
-- Explore the dataset using visualization tools in matplotlib and seaborn. 
--
--
--
-
 ## EDA
 
 Used bar plots, pie charts, and folium maps to visualize the distributions and relationships between various variables. This dataset contained 114 features, so this was an extensive process. Below are some of the highlights.
@@ -32,3 +25,7 @@ Used bar plots, pie charts, and folium maps to visualize the distributions and r
 </p> 
 
 ## Clustering Analysis
+
+<p align="center">
+<img src="https://github.com/AlexBandurin/Train_Accidents/blob/master/Elbow_method.jpeg"  width="60%" height="60%">
+</p> 
