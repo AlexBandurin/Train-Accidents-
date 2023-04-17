@@ -49,8 +49,10 @@ Going to 4 clusters, the last of those categories split up into 2 clusters witho
 
 # Conclusion:
 
-I noticed a tendency in all of these clustering models that accidents involving non-passenger trains carrying few cars and going at low speeds happen due to human error. These must be locomotives being moved short distances at the the rail yard. The causes associated with these are primarily **shoving movement**, which means that one train car collides with another, or **Switch improperly lined**, meaning that the railroad switch, a mechanical installation for guiding trains from one track to another, has been improperly configured. 
+From cluster analysis, I determined that:
 
-However, accidents in clusters with some or all passenger trains happen due to miscellaneous reasons, and the most common one of these is the innatentiveness of car drivers on the highway, as was discovered during EDA.
+- Freight trains carrying with few cars and going at low speeds happen due to human error. These must be locomotives being moved short distances at the the rail yard. The causes associated with these are primarily "shoving movement", which means that one train car collides with another, or "Switch improperly lined", meaning that the railroad switch, a mechanical installation for guiding trains from one track to another, has been improperly configured. 
+
+- Accidents involving passenger trains happen due to miscellaneous reasons, and the most common one of these is the innatentiveness of car drivers on the highway, as was discovered during EDA.
 
 It seems like injuries and deaths could be attributed primarily to the last cluster category, in which there are passenger (Amtrack) trains.
